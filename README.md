@@ -24,13 +24,13 @@ The solution simulates a real-world banking Business Intelligence (BI) environme
 
 ## Executive Banking Dashboard
 
-![Dashboard](images/dashboard_preview.png)
+![Dashboard](images/dashboard_preview(1).png)
 
 ---
 
 # Database Schema
 
-![ER Diagram](images/er_diagram.png)
+![ER Diagram](images/er_diagram(1).png)
 
 ---
 

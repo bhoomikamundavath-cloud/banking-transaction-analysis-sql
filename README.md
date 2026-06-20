@@ -37,33 +37,29 @@ The solution simulates a real-world banking Business Intelligence (BI) environme
 # Key Analytics Performed
 
 ## Transaction Analysis
-- Daily transaction trends
+- Daily transaction volume trends
 - Channel-wise transaction analysis
-- Debit vs Credit analysis
-- Transaction volume monitoring
+- Debit vs Credit transaction comparison
+- Transaction amount monitoring
 
 ## Fraud Detection
 - Failed transaction monitoring
-- High-value transaction detection
-- Suspicious transaction identification
-- Late-night transaction analysis
-
-## Customer Segmentation
-- High-value customers
-- Medium-value customers
-- Low-value customers
-- Customer distribution by city
+- Transaction status analysis
 
 ## Loan Analytics
-- Loan exposure analysis
-- Repayment status tracking
-- Late repayment identification
-- Loan portfolio meaning
+- Loan portfolio analysis
+- Loan repayment status tracking
+- Ongoing, paid and late loan monitoring
 
-## ATM Usage Analytics
+## ATM & Geographic Analytics
 - ATM transaction monitoring
-- ATM channel usage
-- Banking activity by location
+- Banking activity across Australian cities
+- Geographic transaction distribution
+
+## Executive Reporting
+- KPI monitoring
+- Interactive filtering by city, channel, and transaction type
+- Business insights generation
 
 ---
 
@@ -113,8 +109,8 @@ BANKING_TRANSACTION_ANALYSIS/
 | └──Banking_Transaction_Database_Schema.pdf
 |
 ├── images/ 
-│ ├── dashboard_preview.png 
-│ └── er_diagram.png 
+│ ├── dashboard_preview(1).png 
+│ └── er_diagram(1).png 
 │ 
 └── README.md
 ```

@@ -118,11 +118,14 @@ BANKING_TRANSACTION_ANALYSIS/
 
 # Future Improvements
 
-- Real-time transaction monitoring  
-- Fraud prediction using Machine Learning
-- Multi-page Power BI dashboards
-- Power BI Service deployment
-- Customer churn analysis
+- Implement real-time transaction monitoring using streaming data. 
+- Develop machine learning models for fraud detection and risk prediction.
+- Build multi-page Power BI dashboards for customer, loan, and fraud analytics.
+- Deploy reports through Power BI Service with automated refresh schedules.
+- Add customer segmentation and churn prediction analytics.
+- Integrate predictive analytics for loan default forecasting.
+- Expand geographic analysis with branch-level and ATM-level performance tracking.
+- Create executive drill-through reports for detailed transaction investigations.
 ---
 
 # Author
